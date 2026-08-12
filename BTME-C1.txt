@@ -1,0 +1,7 @@
+BTME-C1 checkpoint-photo commitment
+
+SHA-256:
+86552782933C1925CC84AC48D9C60210967991DC46D6F22D4D84183F1497A3DC
+
+This hash commits to a privately preserved evidence package containing a BTME checkpoint candidate photograph and a contemporaneous claim. 
+No location information is disclosed.
