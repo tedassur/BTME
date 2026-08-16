@@ -1,0 +1,8 @@
+BTME-S3 Solve 3 commitment
+
+SHA-256:
+B425ED7226A4669E929BB18A5787ABD8AAACD8A54F87405239F409445D5487CA
+
+This hash commits to a privately preserved evidence package containing a BTME solve candidate and a contemporaneous claim. 
+No location information is disclosed.
+
