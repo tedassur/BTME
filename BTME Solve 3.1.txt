@@ -1,0 +1,8 @@
+BTME-S3 Solve 3.1 commitment
+
+SHA-256:
+D88A6F5F56156C7F78F5D5C47B81A9CD49503218197698B0155BAEF59F8722D8
+
+This hash commits to a privately preserved evidence package containing a BTME solve candidate and a contemporaneous claim. This update is for the specific location derived from the poem only.
+
+No location information is disclosed.
