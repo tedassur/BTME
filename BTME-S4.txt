@@ -1,0 +1,8 @@
+BTME-S4 Solve 4 commitment
+
+SHA-256:
+A97407B17D3D4968E27EA7F06DF6EA9CC905D4562C621BDA0A15028BB0F54A24
+
+This hash commits to a privately preserved evidence package containing a BTME solve candidate and a contemporaneous claim. 
+No location information is disclosed.
+
